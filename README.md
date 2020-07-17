@@ -11,3 +11,4 @@ Um sistema de gerenciamento de pedidos usando HTML, CSS, Javascript, Bootstrap, 
 - [Editar](https://felipe-dmb.github.io/dk-admin/Captura%20de%20Tela%202020-07-17%20a%CC%80s%2014.26.10.png)
 - [Filtrar pela Primeira Letra](https://felipe-dmb.github.io/dk-admin/Captura%20de%20Tela%202020-07-17%20a%CC%80s%2014.26.35.png)
 - [Remover](https://felipe-dmb.github.io/dk-admin/Captura%20de%20Tela%202020-07-17%20a%CC%80s%2014.32.45.png)
+- [Exemplo do design da validação](https://felipe-dmb.github.io/dk-admin/Captura%20de%20Tela%202020-07-17%20às%2014.49.26.png)
