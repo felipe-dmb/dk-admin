@@ -1,0 +1,38 @@
+#title-dk {
+	font-size: 3em;
+	color: #aaa;
+}
+.page-info{
+	color:#aaa;
+}
+nav{
+	position: fixed;
+	width: 16.666667%;
+}
+.nav-bg{
+	position:fixed;
+	background-color: #bababa;
+	height: 100%;
+	width: 16.66667%;
+}
+nav ul li {
+	padding: 0.5em 1.0em;
+	font-size: 1.5em;
+}
+nav ul a {
+	display:block;
+	color:#000;
+}
+nav ul a:hover {
+	text-decoration: none;
+}
+nav ul .active {
+	background-color: #FFF;
+}
+fieldset legend {
+	width: auto;
+	
+}
+form .button-group {
+	width: 263px;
+}
